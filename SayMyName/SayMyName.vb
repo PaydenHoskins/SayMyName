@@ -1,9 +1,11 @@
 ﻿'Payden Hoskins
 'Spring 2025
 'RCET2265
-'OperatorsExample
+'SayMyName
 'https://github.com/PaydenHoskins/SayMyName.git
 
+Option Explicit On
+Option Strict On
 
 Module SayMyName
 
